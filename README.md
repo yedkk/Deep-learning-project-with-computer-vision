@@ -6,4 +6,4 @@ For more convenient use and faster operation, it is recommended that users use G
 
 I have stored the main parameters of the function in the form of variables. If the user needs to input different data, the user can change the location of the input and output. In addition, users can freely adjust the number of clusters of k-means. And the user can adjust the parameter of the PCA function to change the dimension of the data.
 
-此项目为使用数据科学课程的结课项目。本项目使用了埃及象形文字石碑的图片来进行聚类，用以将不同象形文字的字母和改型进行分类。此项目写在jupyternotebook文件中，建议使用anaconda3的环境进行运行，在运行前需要安装支持运行的第三方库，
+此项目为使用数据科学课程的结课项目。本项目使用了埃及象形文字石碑的图片来进行聚类，用以将不同象形文字的字母和改型进行分类。此项目写在jupyternotebook文件中，建议使用anaconda3的环境进行运行，在运行前需要安装支持运行的第三方库。由于版权限制，小组其他成员的代码不会在这个仓库中开源，但小组report的内容会被公开。
